@@ -1,16 +1,16 @@
-## Hi there 👋
+### Bem vindo ao construidor de códigos 👋
 
-<!--
-**EduardoConstroiCodigos/EduardoConstroiCodigos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Eduardo, e estou estudando na [Alura](https://www.alura.com.br) sobre programação e construção de códigos
+- Esse perfil é somente para as aulas, sem uso profissional!
 
-Here are some ideas to get you started:
+O que se deve saber:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Nada
+- 🌱 Nothing
+- 👯 Mais nada
+- 🤔 menos ainda
+- 💬 vazio
+- 📫 nada a declarar
+- 😄 homem másculo
+- ⚡ Eduardo
+
